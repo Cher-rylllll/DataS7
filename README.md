@@ -1,2 +1,7 @@
-# DataS7
-July2022
+# Intro to Streamlit DataS7
+
+
+
+My LinkedIn
+My Creative Portfolio
+My Data Portfolio
